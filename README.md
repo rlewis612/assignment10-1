@@ -1,4 +1,4 @@
-#Assignment 10: Serialized Data, AJAX and Templating with JavaScript I
+#Assignment 10: Angular: AJAX and Dependency Injection
 
 ## Repository Forking Instructions:
 1. Go to the "assignment10" repository on the CWEB221 GitHub page. Assignment instructions are in the readme below.
