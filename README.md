@@ -15,7 +15,7 @@
 3. Open "index.html" and "editme.js". Inside, you'll find a structured (but non-working) Angular application skeleton. The URLs for Open Notify (the ISS API) and Google Maps are commented in the file.
 4. In the HTML file, add the appropriate ng-app and ng-controller directives.
 5. Using Angular's dependency injection system, inject $scope and the $http service into the controller.
-6. Using the Open Notify API and the $http Angular service, make an AJAX call to retrieve lat/long coordinates for the space station, and add the resulting data to our $scope, so that the image path in our HTML is populated correctly.
+6. Using the Open Notify API and the $http Angular service, make an AJAX call to retrieve lat/long coordinates for the space station, and add the resulting data to our $scope, so that the map placeholder in our HTML is populated correctly (hint: you can construct the entire URL in JavaScript and insert it, or put the URL in the HTML and just fill in the appropriate values).
 7. If all goes well, you should see a map with a marker indicating the ISS's current position when you open "index.html" in a browser.
 8. So far, our code will only run once. Add functionality that will allow the page to refresh(hint: add a button or use JavaScript's built-in setTimeout method to automatically refresh the AJAX data).
 9. Submit the completed project via GitHub pull request before the beginning of next week's class (04/29/15).
