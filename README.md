@@ -10,7 +10,7 @@
 
 
 ## Assignment Instructions:
-1. TIme to find the International Space Station again! Much like assignment #6, the goal of this assignment is to display on a map the location on Earth that the ISS is currently above -- but this time, we'll use Angular.
+1. Time to find the International Space Station again! Much like assignment #6, the goal of this assignment is to display on a map the location on Earth that the ISS is currently above -- but this time, we'll use Angular.
 2. **IMPORTANT:** work within Cloud9 or from a local server. The AJAX functionality won't work if you run it from a file only.
 3. Open "index.html" and "editme.js". Inside, you'll find a structured (but non-working) Angular application skeleton. The URLs for Open Notify (the ISS API) and Google Maps are commented in the file.
 4. In the HTML file, add the appropriate ng-app and ng-controller directives.
